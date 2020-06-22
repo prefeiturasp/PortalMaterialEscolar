@@ -1,0 +1,6 @@
+[submodule "PortalMaterialEscolar-FrontEnd"]
+	path = PortalMaterialEscolar-FrontEnd
+	url = https://github.com/prefeiturasp/PortalMaterialEscolar-FrontEnd
+[submodule "PortalMaterialEscolar-BackEnd"]
+	path = PortalMaterialEscolar-BackEnd
+	url = https://github.com/prefeiturasp/PortalMaterialEscolar-BackEnd
