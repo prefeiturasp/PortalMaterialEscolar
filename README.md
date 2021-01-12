@@ -24,7 +24,7 @@ O [Ateliê do Software](http://forum.govit.prefeitura.sp.gov.br/uploads/default/
 
 # Sobre o Produto
 
-## Portal Material Escolar
+## Portal do Material Escolar
 
 Para **as empresas do ramo de material escolar**
 
