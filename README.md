@@ -24,7 +24,7 @@ O [Ateliê do Software](http://forum.govit.prefeitura.sp.gov.br/uploads/default/
 
 # Sobre o Produto
 
-## Portal do Material Escolar
+## Visão de Futuro
 
 Para **as empresas do ramo de material escolar**
 
@@ -39,6 +39,17 @@ Que **permite seu cadastramento como fornecedor, informando dados cadastrais, up
 ## Objetivos de Negócio
 
 Criação de um novo portal para gestão de fornecedores de material escolar para o kit do aluno e para facilitar a busca destes estabelecimentos para os responsáveis. O portal permite o cadastro de fornecedores com ponto físico em São Paulo, podendo este fornecer os produtos que compõem os kits de cada modalidade de ensino. Durante o cadastro, os fornecedores deverão informar dados cadastrais, endereço das lojas, tabela de preço e documentações necessárias. O estudante e as famílias poderão comprar os itens que ele desejar dentro de um valor máximo estipulado para cada modalidade, em múltiplos estabelecimentos. 
+
+**O que é/Faz**
+ 
+- Um portal de informações para estudantes e famílias e fornecedores em relação ao novo modelo descentralizado de compra de material escolar pelos estudantes e famílias da Rede Municipal de Educação de São Paulo
+- Uma busca para que os estudantes e famílias localizem os fornecedores credenciados
+- Cadastra novos fornecedores interessados em vender o material escolar diretamente aos estudantes e famílias
+- Uma área administrativa para SME para acompanhar e apoiar o processo de cadastramento dos fornecedores
+ 
+**O que não é/não faz**
+  
+- Não é um comércio eletrônico e nem um marketplace de venda de material escolar
 
 ## Personas
 
@@ -65,6 +76,7 @@ Criação de um novo portal para gestão de fornecedores de material escolar par
 ## Roadmap
 
 - Desenvolvimento do componente de avaliação de satistação e realização de piloto
+- Integração com a API da empresa de pagamento
 
 # Sobre o Time:
 
@@ -80,12 +92,12 @@ Criação de um novo portal para gestão de fornecedores de material escolar par
 <tr>
 <td>Product Owner</td>
 <td>@nataliagoes e Renata Garrido</td>
-<td>Thais Brianezi</td>
+<td>@thaisbrianezi</td>
 </tr>
 <tr>
 <td>Agente de Governança</td>
 <td>@fgonsales</td>
-<td>@Gabi_Rowlands</td>
+<td>Victor Silva</td>
 </tr>
 <tr>
 <td>Gerente de Projeto</td>
