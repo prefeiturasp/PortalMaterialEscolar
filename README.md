@@ -2,8 +2,8 @@
 
 Como um governo pode atuar para garantir o bem comum de todos? Na SME, acreditamos que um dos meios para isso seja garantir transparência e prestação de contas e constante relação entre governo e sociedade para o desenvolvimento e implementação de políticas públicas. 
 
-A Portaria SME nº 8.008, de 12 de novembro de 2018 oficializou a estratégia da Secretaria Municipal de Educação de SP para que nossas ações sejam pautadas nos princípios de Governo Aberto e para usarmos os valores e benefícios do mundo digital para melhorarmos nossos processos e serviços para os cidadãos. 
-Com isso, pretendemos: 
+A Portaria SME nº 8.008, de 12 de novembro de 2018 oficializou a estratégia da Secretaria Municipal de Educação de SP para que nossas ações sejam pautadas nos princípios de Governo Aberto e para usarmos os valores e benefícios do mundo digital para melhorarmos nossos processos e serviços para os cidadãos. Com isso, pretendemos: 
+
 - aumentar os níveis de transparência ativa e de abertura de dados, garantindo a proteção de dados pessoais; 
 - instituir metodologias ágeis e colaborativas como parte do processo de desenvolvimento e de evolução de sistemas administrativos e de serviços digitais; 
 - fortalecer o controle das políticas educacionais e da aplicação de recursos por parte da gestão e da sociedade; 
@@ -32,45 +32,39 @@ Que **queiram se tornar fornecedores da Secretaria Municipal de Educação de S�
 
 O **Portal do Material Escolar**
 
-É **um portal web** 
+É **um portal** 
 
 Que **permite seu cadastramento como fornecedor, informando dados cadastrais, upload de documentos obrigatórios, endereço das lojas físicas e valor de venda dos itens que compõem os kits de material escolar de todas as modalidades de ensino.**
 
 ## Objetivos de Negócio
 
-Criação de um novo portal para gestão de fornecedores de material escolar para o kit do aluno e para facilitar a busca destes estabelecimentos para os responsáveis. O portal permite o cadastro de fornecedores com ponto físico em São Paulo, podendo este, fornecer os produtos que compões os kits de cada modalidade de ensino. Durante o cadastro, os fornecedores deverão informar dados cadastrais, endereço das lojas, tabela de preço e documentações necessárias. O responsável poderá comprar os itens que ele desejar dentro de um valor máximo estipulado para cada modalidade, em múltiplos estabelecimentos. 
+Criação de um novo portal para gestão de fornecedores de material escolar para o kit do aluno e para facilitar a busca destes estabelecimentos para os responsáveis. O portal permite o cadastro de fornecedores com ponto físico em São Paulo, podendo este fornecer os produtos que compõem os kits de cada modalidade de ensino. Durante o cadastro, os fornecedores deverão informar dados cadastrais, endereço das lojas, tabela de preço e documentações necessárias. O estudante e as famílias poderão comprar os itens que ele desejar dentro de um valor máximo estipulado para cada modalidade, em múltiplos estabelecimentos. 
 
 ## Personas
 
-**Quem:** famílias e responsáveis 
+**Quem:** estudantes e famílias
+
 **Necessidades:** precisam encontrar mais facilmente os estabelecimentos que ofertam a compra dos kits com o cartão oferecido pela Secretaria Municipal de Educação 
 
 **Quem:** fornecedores
+
 **Necessidades:** precisam de um portal que possibilite cadastro facilitado de seus estabelecimentos para oferta dos itens que compõem os kits de material escolar de todas as modalidades de ensino
 
 **Quem:** administrador SME
+
 **Necessidades:** precisam um sistema que permita o gerenciamento simplificado dos fornecedores cadastrados
 
 ## Funcionalidades
 
 **Cadastro do Fornecedor**: permite que um fornecedor realize seu cadastro, informando da empresa, lojas físicas, tabela de preço dos materiais fornecidos, upload de documentos exigidos no edital e foto da fachada das lojas
 
-**Busca de Lojas Credenciadas**: permite que pais e responsáveis possam realizar a busca de lojas credenciadas à partir de um endereço ou utilizando demais filtros
+**Busca de Lojas Credenciadas**: permite que estudantes e famílias possam realizar a busca de lojas credenciadas à partir de um endereço ou utilizando demais filtros
 
 **Portal do Administrador**: permite que os administradores do sistema tenham acesso aos dados informados pelos fornecedores que realizaram o cadastro, podendo assim validar documentações e demais dados e caso aprovado, alterar o status do fornecedor para que o mesmo seja considerado como um fornecedor credenciado
 
-## Jornadas
-
-**Jornadas descritas nos fluxos:** Fornecedor, Famílias / Responsáveis e Administrativo
-https://whimsical.com/GfQmi1pQZSKx57i8hdWUn2@AhRp651J2qvZVmT4GeEhDL1Y3
-
 ## Roadmap
 
-**Roadmap inicial produzido na Oficina:**
-https://whimsical.com/GfQmi1pQZSKx57i8hdWUn2@VsSo8s35Vy7Q1QnS5ZNWRu
-
-**MVP Priorizado com o negócio:**
-https://whimsical.com/GfQmi1pQZSKx57i8hdWUn2@VsSo8s35WwK3ckkZGQCiwR
+- Desenvolvimento do componente de avaliação de satistação e realização de piloto
 
 # Sobre o Time:
 
@@ -85,8 +79,8 @@ https://whimsical.com/GfQmi1pQZSKx57i8hdWUn2@VsSo8s35WwK3ckkZGQCiwR
 <tbody>
 <tr>
 <td>Product Owner</td>
-<td>@nataliagoes</td>
-<td>Renata Garrido</td>
+<td>@nataliagoes e Renata Garrido</td>
+<td>Thais Brianezi</td>
 </tr>
 <tr>
 <td>Agente de Governança</td>
@@ -95,7 +89,7 @@ https://whimsical.com/GfQmi1pQZSKx57i8hdWUn2@VsSo8s35WwK3ckkZGQCiwR
 </tr>
 <tr>
 <td>Gerente de Projeto</td>
-<td>@alinefreitas</td>
+<td>Andrea Paiva</td>
 <td>-</td>
 </tr>
 <tr>
@@ -105,12 +99,12 @@ https://whimsical.com/GfQmi1pQZSKx57i8hdWUn2@VsSo8s35WwK3ckkZGQCiwR
 </tr>
 <tr>
 <td>Analista UX/UI</td>
-<td>@igor_leao</td>
+<td></td>
 <td>-</td>
 </tr>
 <tr>
 <td>Analista Programador</td>
-<td>@calvinfr</td>
+<td></td>
 <td>@kelwys</td>
 </tr>
 </tbody>
@@ -120,10 +114,16 @@ https://whimsical.com/GfQmi1pQZSKx57i8hdWUn2@VsSo8s35WwK3ckkZGQCiwR
 
 ## Fase de Descoberta:
 
-Demanda solicitada por NUMEL (Núcleo de Uniforme, Material Escolar e Logística) e priorizada pelo gabinete.
+Demanda solicitada por NUMEL (Núcleo de Uniforme, Material Escolar e Logística) e priorizada pelo gabinete. O produto foi pautado nas necessidades dos usuários e também nos dois documentos abaixo:
+
+- [EDITAL DE CREDENCIAMENTO SME/COSERV/DIAL – Numel Nº 002/2020]
+(https://portalmaterialescolar.sme.prefeitura.sp.gov.br//django_media/EDITAL_DE_CREDENCIAMENTO_Material_22.12.20.pdf)
+- [INSTRUÇÃO NORMATIVA SME Nº 57, DE 14 DE DEZEMBRO DE 2020]
+(http://legislacao.prefeitura.sp.gov.br/leis/instrucao-normativa-secretaria-municipal-de-educacao-sme-57-de-14-de-dezembro-de-2020)
 
 **Oficina:**
-[https://whimsical.com/GfQmi1pQZSKx57i8hdWUn2](https://whimsical.com/GfQmi1pQZSKx57i8hdWUn2)
+
+Foi realizada oficina com servidores da SME para identificação e debate dos desafios e criação coletiva de soluções, que se tornaram concretas no desenvolvimento do portal.
 
 ## Protótipos:
 
