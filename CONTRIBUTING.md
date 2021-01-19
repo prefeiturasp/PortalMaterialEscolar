@@ -45,7 +45,7 @@ algum recurso ou qualquer outra coisa relacionada, siga estes passos:
    3. Por que sua sugestão é melhor do que o que já existe no código?
    4. Realmente vale a pena demandar tempo para implementar sua ideia dentro de nossas prioridades?
       
-      Tendo passado pelo crivo de todos estes questionamentos basta [criar uma nova issue](Tendo passado pelo crivo de todos estes questionamentos basta
+Tendo passado pelo crivo de todos estes questionamentos basta [criar uma nova issue](Tendo passado pelo crivo de todos estes questionamentos basta
 [criar uma nova issue](https://github.com/prefeiturasp/PortalMaterialEscolar/issues/new) descrevendo as melhorias e usando o label **melhorias**./new) descrevendo as melhorias e usando o label **melhorias**.
 
 ### Pedindo recursos
