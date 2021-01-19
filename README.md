@@ -53,13 +53,16 @@ Criação de um novo portal para gestão de fornecedores de material escolar par
 
 ## Personas
 
-- **Quem:** estudantes e famílias
+### Estudantes e famílias
+
 - **Necessidades:** precisam encontrar mais facilmente os estabelecimentos que ofertam a compra dos kits com o cartão oferecido pela Secretaria Municipal de Educação 
 
-- **Quem:** fornecedores
+### Fornecedores
+
 - **Necessidades:** precisam de um portal que possibilite cadastro facilitado de seus estabelecimentos para oferta dos itens que compõem os kits de material escolar de todas as modalidades de ensino
 
-- **Quem:** administrador SME
+### Administrador SME
+
 - **Necessidades:** precisam um sistema que permita o gerenciamento simplificado dos fornecedores cadastrados
 
 ## Funcionalidades
