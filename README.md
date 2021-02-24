@@ -128,8 +128,8 @@ Criação de um novo portal para gestão de fornecedores de material escolar par
 
 Demanda solicitada por NUMEL (Núcleo de Uniforme, Material Escolar e Logística) e priorizada pelo gabinete. O produto foi pautado nas necessidades dos usuários e também nos dois documentos abaixo:
 
-- [EDITAL DE CREDENCIAMENTO SME/COSERV/DIAL – Numel Nº 002/2020]
-(https://portalmaterialescolar.sme.prefeitura.sp.gov.br//django_media/EDITAL_DE_CREDENCIAMENTO_Material_22.12.20.pdf)
+- [EDITAL DE CREDENCIAMENTO SME/COSERV/DIAL – Numel Nº 007/2020]
+(https://portalmaterialescolar.sme.prefeitura.sp.gov.br//django_media/EDITAL_18.02.2021.pdf)
 - [INSTRUÇÃO NORMATIVA SME Nº 57, DE 14 DE DEZEMBRO DE 2020]
 (http://legislacao.prefeitura.sp.gov.br/leis/instrucao-normativa-secretaria-municipal-de-educacao-sme-57-de-14-de-dezembro-de-2020)
 - [Lei Municipal nº 17.437/2020](http://legislacao.prefeitura.sp.gov.br/leis/lei-17437-de-12-de-agosto-de-2020)
