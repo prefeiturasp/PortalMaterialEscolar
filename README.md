@@ -76,7 +76,6 @@ Criação de um novo portal para gestão de fornecedores de material escolar par
 ## Roadmap
 
 - Desenvolvimento do componente de avaliação de satistação e realização de piloto
-- Integração com a API da empresa de pagamento
 
 # Sobre o Time:
 
