@@ -40,6 +40,17 @@ Que **permite seu cadastramento como fornecedor, informando dados cadastrais, up
 
 Criação de um novo portal para gestão de fornecedores de material escolar para o kit do aluno e para facilitar a busca destes estabelecimentos para os responsáveis. O portal permite o cadastro de fornecedores com ponto físico em São Paulo, podendo este fornecer os produtos que compõem os kits de cada modalidade de ensino. Durante o cadastro, os fornecedores deverão informar dados cadastrais, endereço das lojas, tabela de preço e documentações necessárias. O estudante e as famílias poderão comprar os itens que ele desejar dentro de um valor máximo estipulado para cada modalidade, em múltiplos estabelecimentos. 
 
+Atualmente, após a etapa inicial de cadastro que aconteceu ao longo de 2020-2021, o portal permite apenas a consulta do cadastro do usuário, com as seguintes opções:
+
+**A) Cadastro não encontrado. Procure sua Unidade Escolar**
+Significado: O CPF não se encontra registrado em nenhum cadastro EOL. Nesse caso existem duas possibilidades: 1) o campo CPF está em branco no cadastro EOL da criança, 2) o cadastro EOL da criança está em nome de outro responsável.
+
+**B) Seu cadastro está completo**
+Baixe o aplicativo Kit Escolar DUEPAY no celular ou tablet e faça sua compra.
+Se você registrou o CPF de responsável no cadastro da criança após o dia 13/04/2022, aguarde a liberação do próximo lote. 
+
+(Essa data é alterada a cada lote. Os lotes são liberados de acordo com novas matrículas ou regularização cadastral)
+
 **O que é/Faz**
  
 - Um portal de informações para estudantes e famílias e fornecedores em relação ao novo modelo descentralizado de compra de material escolar pelos estudantes e famílias da Rede Municipal de Educação de São Paulo
@@ -90,22 +101,22 @@ Criação de um novo portal para gestão de fornecedores de material escolar par
 <tbody>
 <tr>
 <td>Product Owner</td>
-<td>@nataliagoes e Renata Garrido</td>
-<td>@thaisbrianezi</td>
+<td>@nataliagoes</td>
+<td>@RenataGarrido</td>
 </tr>
 <tr>
 <td>Agente de Governança</td>
+<td>Gabriela Rowlands</td>
 <td>@fgonsales</td>
-<td>Victor Silva</td>
 </tr>
 <tr>
 <td>Gerente de Projeto</td>
-<td>Andrea Paiva</td>
+<td>Aline Freitas</td>
 <td>-</td>
 </tr>
 <tr>
 <td>Scrum Master</td>
-<td>@augustocbrito</td>
+<td></td>
 <td>-</td>
 </tr>
 <tr>
@@ -127,11 +138,11 @@ Criação de um novo portal para gestão de fornecedores de material escolar par
 
 Demanda solicitada por NUMEL (Núcleo de Uniforme, Material Escolar e Logística) e priorizada pelo gabinete. O produto foi pautado nas necessidades dos usuários e também nos dois documentos abaixo:
 
-- [EDITAL DE CREDENCIAMENTO SME/COSERV/DIAL – Numel Nº 007/2020]
-(https://portalmaterialescolar.sme.prefeitura.sp.gov.br//django_media/EDITAL_18.02.2021.pdf)
-- [INSTRUÇÃO NORMATIVA SME Nº 57, DE 14 DE DEZEMBRO DE 2020]
-(http://legislacao.prefeitura.sp.gov.br/leis/instrucao-normativa-secretaria-municipal-de-educacao-sme-57-de-14-de-dezembro-de-2020)
-- [LEI MUNICIPAL Nº 17.437/2020](http://legislacao.prefeitura.sp.gov.br/leis/lei-17437-de-12-de-agosto-de-2020)
+- [Edital de credenciamento SME/COSERV/DIAL – Numel Nº 007/2020, págs. 58 a 64](https://portalmaterialescolar.sme.prefeitura.sp.gov.br//django_media/EDITAL_DE_CREDENCIAMENTO_SME_COSERV_DIAL_Numel_N%C2%BA_007_2020_REF.2022.pdf)
+- [NSTRUÇÃO NORMATIVA SECRETARIA MUNICIPAL DE EDUCAÇÃO SME Nº 57 DE 14 DE DEZEMBRO DE 2020](https://legislacao.prefeitura.sp.gov.br/leis/instrucao-normativa-secretaria-municipal-de-educacao-sme-57-de-14-de-dezembro-de-2020)
+- [INSTRUÇÃO NORMATIVA SECRETARIA MUNICIPAL DE EDUCAÇÃO SME Nº 56 DE 29 DE DEZEMBRO DE 2021](https://legislacao.prefeitura.sp.gov.br/leis/instrucao-normativa-secretaria-municipal-de-educacao-sme-56-de-29-de-dezembro-de-2021)
+- [INSTRUÇÃO NORMATIVA SECRETARIA MUNICIPAL DE EDUCAÇÃO SME Nº 58 DE 30 DE DEZEMBRO DE 2021](https://legislacao.prefeitura.sp.gov.br/leis/instrucao-normativa-secretaria-municipal-de-educacao-sme-58-de-30-de-dezembro-de-2021)
+- [INSTRUÇÃO NORMATIVA SECRETARIA MUNICIPAL DE EDUCAÇÃO SME Nº 4 DE 19 DE JANEIRO DE 2022](https://legislacao.prefeitura.sp.gov.br/leis/instrucao-normativa-4-de-19-de-janeiro-de-2022)
 
 **Oficina:**
 
