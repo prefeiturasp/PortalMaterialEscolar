@@ -1,6 +1,6 @@
 [submodule "SME-PortalMaterialEscolar-FrontEnd"]
 	path = SME-PortalMaterialEscolar-FrontEnd
-	url = https://github.com/prefeiturasp/SME-PortalMaterialEscolar-FrontEnd
+	url = https://github.com/prefeiturasp/SME-PortalMaterialEscolar-FrontEnd.git
 [submodule "SME-PortalMaterialEscolar-BackEnd"]
 	path = SME-PortalMaterialEscolar-BackEnd
-	url = https://github.com/prefeiturasp/SME-PortalMaterialEscolar-BackEnd
+	url = https://github.com/prefeiturasp/SME-PortalMaterialEscolar-BackEnd.git
